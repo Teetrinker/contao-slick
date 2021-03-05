@@ -1,8 +1,7 @@
-# Slick
-
 # Only for testing
 This is a fork to test if this extension works on higher versions of Contao. Don't download for production.
 
+# Slick
 
 > If you are on Contao 4, please use https://github.com/heimrichhannot/contao-slick-bundle or https://github.com/heimrichhannot/contao-tiny-slider-bundle.
 

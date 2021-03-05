@@ -1,5 +1,9 @@
 # Slick
 
+# Only for testing
+This is a fork to test if this extension works on higher versions of Contao. Don't download for production.
+
+
 > If you are on Contao 4, please use https://github.com/heimrichhannot/contao-slick-bundle or https://github.com/heimrichhannot/contao-tiny-slider-bundle.
 
 A content slider/carousel for contao based on [kenwheelers slick carousel](http://kenwheeler.github.io/slick/).
